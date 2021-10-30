@@ -1,7 +1,3 @@
-//Given two strings, write a method to decide if one is a permutation of the other
-
-//Because we need to check if every char is String1 is the same as every char in String 2, we have a Best Case Run Time of at least 2n
-
 public class CheckPermutation {
     //"abc", "acb"; "abcd", "abc"; "abcd", "abce"; "","";
 

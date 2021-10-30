@@ -1,7 +1,3 @@
-//Implement an Algorithm to determine if a string has all unique chars?
-
-//Follow Up: What if you cannot use additional data Structures;
-
 import java.util.Set;
 import java.util.HashSet;
 public class IsUnique {
